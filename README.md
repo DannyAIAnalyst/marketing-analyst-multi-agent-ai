@@ -74,3 +74,7 @@ Core components:
 - Runner: Orchestrates agent execution
 - BigQueryToolset: Executes SQL queries
 - Custom auto-save callback: Writes memory after each turn
+
+-----------------------
+This project is released under a Non-Commercial License. Commercial use is prohibited without explicit written permission from the author.
+Contact: s.o@sesandatalab.com.
